@@ -29,6 +29,25 @@ Compose Ctrl+number of the font.
 
 Thanks to [www.youthedesigner.com] (http://www.youthedesigner.com/graphic-design-tips/30-free-typewriter-fonts-each-designer-should-own/) to provide good choice for typewriters fonts.
 
+Don't forget to copy the fontes directory in the application directory for independant launch.
+
 ## Misc
 Of course you can save and open file with customary shortcuts, Ctrl+S and Ctrl+O
-Sorry, no print option at the moment.
+.Sorry, no print option at the moment.
+To quit just type Ctrl+Q.
+
+### How to use it on Windows ?
+Add the following dlls in the application directory:
+
++ icudt53.dll
++ icuin53.dll
++ icuuc53.dll
++ libgcc_s_dw2-1.dll
++ libstdc++-6.dll
++ libwinpthread-1.dll
++ Qt5Core.dll
++ Qt5Gui.dll
++ Qt5Widgets.dll
+
+And of course the platform plugin if necessary in the same application directory:
+platforms/qwindows.dll
