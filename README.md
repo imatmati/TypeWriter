@@ -3,6 +3,12 @@ Like old typewriters and distraction free work ? Your quest is finished. Try Typ
 
 TypeWriter offers you to type with two good old typewriters and try to give the best feeling of working with these old ladies. Full screen and ten typewriters police to start your new novel in text mode!
 
+
+#How does it looks like ?
+
+First model :![first model](http://i.imgur.com/CM8a3gW.png)
+Second model : ![second model](http://i.imgur.com/rKLhZBU.jpg)
+
 #How to use it ?
 
 ## Switch typewriters:
