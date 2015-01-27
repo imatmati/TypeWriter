@@ -6,8 +6,9 @@ TypeWriter offers you to type with two good old typewriters and try to give the 
 
 #How does it looks like ?
 
-First model :![first model](http://i.imgur.com/CM8a3gW.png)
-Second model : ![second model](http://i.imgur.com/rKLhZBU.jpg)
+
+First model : ![first model](http://i.imgur.com/o2RA3kL.jpg)
+Second model : ![second model](http://i.imgur.com/UCQKPpd.png)
 
 #How to use it ?
 
